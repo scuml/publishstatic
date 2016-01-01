@@ -30,7 +30,7 @@ setup(
     long_description=readme,
     author='Stephen Mitchell',
     author_email='stephen@echodot.com',
-    url='http://github.com/scuml/publishstatic/',
+    url='http://github.com/scuml/publishstatic',
     license=license,
     packages=packages,
     package_data={'': ['LICENSE']},
