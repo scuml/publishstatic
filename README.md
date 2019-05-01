@@ -36,4 +36,4 @@ Run the shell command to collect static.  Then publish!
     ./manage.py publishstatic
 ```
 
-That's it!
+That is it!
